@@ -158,4 +158,61 @@ body{
     margin-bottom: 38px;
 }
 
+footer .follow{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 92px;
+    padding-bottom: 64px;
+    display: flex;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
 
+    --border: red solid 2px;
+}
+
+footer .end{
+    padding-top: 37px;
+    background-color: #0B0D17;
+    text-align: center;
+    padding-bottom: 37px;
+    
+}
+
+.end h1{
+    color: #5B5B5B;
+    font-weight: 800;
+    font-size: 30px;
+     
+}
+.end p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    
+}
+
+footer{
+    margin: 0px;
+}
+
+.follow h1{
+    font-weight: 700;
+    font-size: 48px;
+    --border: red solid 2px;
+    margin-bottom: 8px;
+}
+
+.follow p{
+    font-weight: 400;
+    font-size: 16px;
+    --border: red solid 2px;
+}
+
+.w33{
+    --border: red solid 2px;
+    width: 33%;
+    padding-left: 165px;
+    padding-top: 64px;
+    padding-right: 165px;
+   
+}
