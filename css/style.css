@@ -1,0 +1,161 @@
+body{
+    --background: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+
+}
+.top-banner{
+    margin-left: 100px;
+}
+
+.header-title{
+    margin-top: 260px;
+    font-weight: 700;
+    font-size: 60px;
+    color: #575757;
+    margin-bottom: 40px;
+    
+}
+.top-banner .header-title p{
+    margin: auto;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.top-banner{
+    display: flex;
+}
+.top-banner p{
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 70px;
+    color: #828282;
+}
+
+.order-food-btn{   
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 24px 32px;
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-radius: 100px;
+
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 100%
+}
+
+.second-banner{
+    display: flex;
+    background-image: url(../images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.contact-me-btn{
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);
+        color: white;
+        font-weight: 600;
+        font-size: 18px;
+        padding: 24px 32px;
+        box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+        border-radius: 100px;   
+}
+
+.second-banner img{
+    margin-top: 64px;
+    margin-left: 199px;
+    margin-right: 198px;
+    width: 50%;
+}
+
+.about-me{
+    padding-left: 48px;
+    padding-right: 48px;
+    margin-top: 127px;
+    width: 50%;   
+}
+
+.about-me h1{
+    color: #707070;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 32px;
+}
+
+.about-me p{
+    color: #18191F;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 90px;
+    width: 60%;
+
+}
+
+.recipie{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+.recipie .half{
+    width: 50%;
+    padding: 30px;
+    color: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.recipie h1{
+    font-weight: 800;
+    font-size: 28px;
+    color: #18191F;
+}
+
+.recipie p{
+    font-weight: 400;
+    font-size: 18px;
+    color: #18191F;
+}
+
+.half img{
+    width: 100%;
+}
+
+.recipie-title{
+    margin-left: 367px;
+    margin-right: 367px;
+}
+
+.recipie-title h1{
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 72px;
+    color: #707070;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.recipie-title p{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    text-align: center;
+    margin-bottom: 38px;
+}
+
+
